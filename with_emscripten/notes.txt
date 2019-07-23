@@ -1,0 +1,9 @@
+Debug httpd.conf for http://localhost/u/Umon.html
+
+Alias /u "C:/MyProjects/umon/top/with_emscripten/build"
+
+<Directory "C:/MyProjects/umon/top/with_emscripten/build">
+    Options Indexes FollowSymLinks Includes ExecCGI
+    AllowOverride All
+    allow from all
+</Directory>

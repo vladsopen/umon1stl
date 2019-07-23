@@ -1,0 +1,1 @@
+This is the default current/root directory for both QT and Emscripten version.

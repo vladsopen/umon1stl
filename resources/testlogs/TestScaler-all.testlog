@@ -1,0 +1,36 @@
+TestScaler: Started!
+PointsPerScreenProgress: - Nice match case 700 -> 500
+PointsPerScreenProgress:  Nice match case 1000 -> 500
+PointsPerScreenFinal: Nice match case from 1000pt for 1000px - *1 loops  --> 500pt
+PointsPerScreenProgress:  Quick end- case 100 -> 500
+PointsPerScreenFinal: Quick end- case from 100pt for 1000px - *0 loops  --> 500pt
+PointsPerScreenProgress:  Quick end+ case 10000 -> 7000
+PointsPerScreenFinal: Quick end+ case from 10000pt for 1000px + *0 loops  --> 7000pt
+PointsPerScreenProgress:  Unmatched+1 case 111 -> 448
+PointsPerScreenFinal: Unmatched+1 case from 111pt for 112px + *0 loops  --> 448pt
+PointsPerScreenProgress:  Unmatched-1 case 111 -> 440
+PointsPerScreenFinal: Unmatched-1 case from 111pt for 110px + *0 loops  --> 440pt
+PointsPerScreenProgress: + Small screen 1534 -> 1837
+PointsPerScreenProgress:  Small screen 1234 -> 1837
+PointsPerScreenFinal: Small screen from 1234pt for 11px + *1 loops  --> 1837pt
+PointsPerScreenProgress:  Huge screen 12 -> 500
+PointsPerScreenFinal: Huge screen from 12pt for 100000px + *0 loops  --> 500pt
+PointsPerScreenProgress:  Clamped max 6000 -> 6000
+PointsPerScreenFinal: Clamped max from 6000pt for 123px + *0 loops  --> 6000pt
+PointsPerScreenProgress:  Clamped min 500 -> 500
+PointsPerScreenFinal: Clamped min from 500pt for 321px - *0 loops  --> 500pt
+PointsPerScreenProgress: + Nearly max 6000 -> 6000
+PointsPerScreenProgress:  Nearly max 5999 -> 6000
+PointsPerScreenFinal: Nearly max from 5999pt for 34188301px + *1 loops  --> 6000pt
+PointsPerScreenProgress: - Nearly min 500 -> 500
+PointsPerScreenProgress:  Nearly min 501 -> 500
+PointsPerScreenFinal: Nearly min from 501pt for 401301px - *1 loops  --> 500pt
+PointsPerScreenProgress:  Zero case 0 -> 500
+PointsPerScreenFinal: Zero case from 0pt for 0px - *0 loops  --> 500pt
+PointsPerScreenProgress:  Zero case 0 -> 500
+PointsPerScreenFinal: Zero case from 0pt for 0px + *0 loops  --> 500pt
+PointsPerScreenProgress:  1-Zero case 1 -> 500
+PointsPerScreenFinal: 1-Zero case from 1pt for 0px - *0 loops  --> 500pt
+PointsPerScreenProgress:  Zero-1 case 0 -> 500
+PointsPerScreenFinal: Zero-1 case from 0pt for 1px + *0 loops  --> 500pt
+TestScaler: Ended.

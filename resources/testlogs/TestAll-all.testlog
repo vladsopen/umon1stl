@@ -1,0 +1,1291 @@
+App: Creating...
+PointsPerScreenFinal: disabling from 2000pt for 0px + *0 loops  --> 2300pt
+PointsPerScreenFinal: disabling from 2000pt for 0px - *0 loops  --> 1700pt
+App: Created.
+TestAll: Ready...
+TestAll: Started!
+PointsPerScreenFinal: disabling from 2000pt for 640px + *1 loops  --> 2560pt
+PointsPerScreenFinal: disabling from 2000pt for 640px - *0 loops  --> 1280pt
+PointsPerScreenFinal: change from 2000pt for 640px - *0 loops  --> 1280pt
+ViewAmplitude: 1 --> 1.5
+ViewAmplitude: 1.5 --> 1
+IncrementerStart: first time step() call
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: 0ms behind
+Draw: | scroll mode || chasing || skipping 1st sweep step || sweep mode | 
+Draw: | scroll mode || chasing || skipping 1st sweep step || sweep mode | 
+Draw: | scroll mode || chasing || skipping 1st sweep step || sweep mode | 
+Draw: | scroll mode || chasing || skipping 1st sweep step || sweep mode | 
+Draw: | scroll mode || chasing || skipping 1st sweep step || sweep mode | 
+Draw: | scroll mode || chasing || skipping 1st sweep step || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -277ms behind
+Draw: | scroll mode || chasing || skipping 1st sweep step || sweep mode | 
+Draw: | scroll mode || chasing || skipping 1st sweep step || sweep mode | 
+Draw: | scroll mode || chasing || skipping 1st sweep step || sweep mode | 
+Draw: | scroll mode || chasing || skipping 1st sweep step || sweep mode | 
+PointsPerScreenFinal: disabling from 1280pt for 640px + *2 loops  --> 1920pt
+PointsPerScreenFinal: disabling from 1280pt for 640px - *0 loops  --> 640pt
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -55ms behind
+Draw: | chasing || skipping 1st sweep step || sweep mode | 
+PointsPerScreenFinal: change from 1280pt for 640px - *0 loops  --> 640pt
+IncrementerForcingSweep: (happens once)
+IncrementerAccelerating: 53pt current speed up
+IncrementerShift: 5pt faster
+Draw: | sweep mode | 
+ViewAmplitude: 1 --> 0.5
+IncrementerAccelerating: 43pt current speed up
+IncrementerShift: 4pt faster
+Draw: | sweep mode | 
+IncrementerShift: 3pt faster
+Draw: | sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -41ms behind
+IncrementerAccelerating: 62pt current speed up
+IncrementerShift: 6pt faster
+Draw: | sweep mode | 
+ViewAmplitude: 0.5 --> 1
+IncrementerAccelerating: 51pt current speed up
+IncrementerShift: 5pt faster
+Draw: | sweep mode | 
+IncrementerShift: 4pt faster
+Draw: | sweep mode | 
+IncrementerShift: 4pt faster
+Draw: | sweep mode | 
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 640
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -235ms behind
+IncrementerAccelerating: 57pt current speed up
+IncrementerShift: 5pt faster
+Draw: | sweep mode | 
+IncrementerAccelerating: 45pt current speed up
+IncrementerShift: 4pt faster
+Draw: | sweep mode | 
+PointsPerScreenFinal: disabling from 640pt for 640px + *2 loops  --> 1280pt
+PointsPerScreenFinal: disabling from 640pt for 640px - *1 loops  --> 500pt
+IncrementerShift: 4pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -17ms behind
+IncrementerAccelerating: 61pt current speed up
+IncrementerShift: 6pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: change from 640pt for 640px - *1 loops  --> 500pt
+IncrementerAccelerating: 48pt current speed up
+IncrementerShift: 4pt faster
+Draw: | scroll mode | 
+IncrementerShift: 4pt faster
+Draw: | scroll mode | 
+ViewAmplitude: 1 --> 0.5
+IncrementerShift: 4pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 1280
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -575ms behind
+IncrementerAccelerating: 49pt current speed up
+IncrementerShift: 4pt faster
+Draw: | scroll mode | 
+IncrementerShift: 4pt faster
+Draw: | scroll mode | 
+IncrementerShift: 4pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -630ms behind
+IncrementerAccelerating: 48pt current speed up
+IncrementerShift: 4pt faster
+Draw: | scroll mode | 
+IncrementerShift: 4pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: disabling from 500pt for 640px + *2 loops  --> 1280pt
+PointsPerScreenFinal: disabling from 500pt for 640px - *0 loops  --> 500pt
+ViewAmplitude: 0.5 --> 1
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 1920
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -65ms behind
+IncrementerAccelerating: 58pt current speed up
+IncrementerShift: 5pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerAccelerating: 44pt current speed up
+IncrementerShift: 4pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 4pt faster
+Draw: | scroll mode || sweep mode | 
+PointsPerScreenFinal: change from 500pt for 640px - *0 loops  --> 500pt
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 2560
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -315ms behind
+IncrementerAccelerating: 53pt current speed up
+IncrementerShift: 5pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 4pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 4pt faster
+Draw: | scroll mode || sweep mode | 
+ViewAmplitude: 1 --> 0.5
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -682ms behind
+IncrementerAccelerating: 45pt current speed up
+IncrementerShift: 4pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 4pt faster
+Draw: | scroll mode || sweep mode | 
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 3200
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -325ms behind
+IncrementerAccelerating: 52pt current speed up
+IncrementerShift: 5pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 4pt faster
+Draw: | scroll mode || sweep mode | 
+PointsPerScreenFinal: disabling from 500pt for 640px + *2 loops  --> 1280pt
+PointsPerScreenFinal: disabling from 500pt for 640px - *0 loops  --> 500pt
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -20ms behind
+IncrementerAccelerating: 57pt current speed up
+IncrementerShift: 5pt faster
+Draw: | sweep mode | 
+IncrementerShift: 5pt faster
+Draw: | sweep mode | 
+IncrementerShift: 4pt faster
+Draw: | sweep mode | 
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 3840
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -660ms behind
+IncrementerAccelerating: 44pt current speed up
+IncrementerShift: 4pt faster
+Draw: | sweep mode | 
+PointsPerScreenFinal: change from 500pt for 640px - *0 loops  --> 500pt
+IncrementerShift: 4pt faster
+Draw: | sweep mode | 
+ViewAmplitude: 0.5 --> 1
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 4480
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -485ms behind
+IncrementerAccelerating: 47pt current speed up
+IncrementerShift: 4pt faster
+Draw: | sweep mode | 
+IncrementerShift: 4pt faster
+Draw: | sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -362ms behind
+IncrementerAccelerating: 50pt current speed up
+IncrementerShift: 5pt faster
+Draw: | sweep mode | 
+ViewAmplitude: 1 --> 0.5
+IncrementerShift: 4pt faster
+Draw: | sweep mode | 
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 5120
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -291ms behind
+IncrementerAccelerating: 51pt current speed up
+IncrementerShift: 5pt faster
+Draw: | sweep mode | 
+PointsPerScreenFinal: disabling from 500pt for 640px + *2 loops  --> 1280pt
+PointsPerScreenFinal: disabling from 500pt for 640px - *0 loops  --> 500pt
+IncrementerShift: 4pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -272ms behind
+IncrementerAccelerating: 51pt current speed up
+IncrementerShift: 5pt faster
+Draw: | scroll mode | 
+IncrementerShift: 4pt faster
+Draw: | scroll mode | 
+IncrementerShift: 4pt faster
+Draw: | scroll mode | 
+IncrementerShift: 3pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: change from 500pt for 640px - *0 loops  --> 500pt
+IncrementerShift: 3pt faster
+Draw: | scroll mode | 
+IncrementerShift: 3pt faster
+Draw: | scroll mode | 
+IncrementerShift: 2pt faster
+Draw: | scroll mode | 
+IncrementerShift: 2pt faster
+Draw: | scroll mode | 
+IncrementerShift: 2pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: disabling from 500pt for 640px + *2 loops  --> 1280pt
+PointsPerScreenFinal: disabling from 500pt for 640px - *0 loops  --> 500pt
+ViewAmplitude: 0.5 --> 1
+ViewAmplitude: 1 --> 0.5
+IncrementerShift: 2pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 2pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | scroll mode || sweep mode | 
+PointsPerScreenFinal: change from 500pt for 640px - *0 loops  --> 500pt
+IncrementerShift: 1pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 5760
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -210ms behind
+IncrementerShift: 1pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | scroll mode || sweep mode | 
+PointsPerScreenFinal: disabling from 500pt for 640px + *2 loops  --> 1280pt
+PointsPerScreenFinal: disabling from 500pt for 640px - *0 loops  --> 500pt
+IncrementerShift: 1pt faster
+Draw: | sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | sweep mode | 
+ViewAmplitude: 0.5 --> 0.05
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+ViewAmplitude: 0.05 --> 0.55
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 6400
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -100ms behind
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+PointsPerScreenFinal: change from 500pt for 640px - *0 loops  --> 500pt
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+PointsPerScreenFinal: disabling from 500pt for 640px + *2 loops  --> 1280pt
+PointsPerScreenFinal: disabling from 500pt for 640px - *0 loops  --> 500pt
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -227ms behind
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+ViewAmplitude: 0.55 --> 0.05
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 7040
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -357ms behind
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: change from 500pt for 640px - *0 loops  --> 500pt
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: disabling from 500pt for 640px + *2 loops  --> 1280pt
+PointsPerScreenFinal: disabling from 500pt for 640px - *0 loops  --> 500pt
+ViewAmplitude: 0.05 --> 0.55
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 7680
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -295ms behind
+IncrementerShift: 0pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -441ms behind
+IncrementerShift: 0pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode || sweep mode | 
+ViewAmplitude: 0.55 --> 0.05
+IncrementerShift: 0pt faster
+Draw: | scroll mode || sweep mode | 
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 8320
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -187ms behind
+IncrementerAccelerating: 44pt current speed up
+IncrementerShift: 4pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 4pt faster
+Draw: | scroll mode || sweep mode | 
+PointsPerScreenFinal: change from 500pt for 640px - *0 loops  --> 500pt
+IncrementerShift: 3pt faster
+Draw: | scroll mode || sweep mode | 
+PointsPerScreenFinal: disabling from 500pt for 640px + *2 loops  --> 1280pt
+PointsPerScreenFinal: disabling from 500pt for 640px - *0 loops  --> 500pt
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -50ms behind
+IncrementerAccelerating: 46pt current speed up
+IncrementerShift: 4pt faster
+Draw: | sweep mode | 
+IncrementerShift: 4pt faster
+Draw: | sweep mode | 
+IncrementerShift: 3pt faster
+Draw: | sweep mode | 
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 8960
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -30ms behind
+IncrementerAccelerating: 47pt current speed up
+IncrementerShift: 4pt faster
+Draw: | sweep mode | 
+IncrementerShift: 4pt faster
+Draw: | sweep mode | 
+ViewAmplitude: 0.05 --> 0.55
+IncrementerShift: 3pt faster
+Draw: | sweep mode | 
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 9600
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -127ms behind
+IncrementerAccelerating: 44pt current speed up
+IncrementerShift: 4pt faster
+Draw: | sweep mode | 
+IncrementerShift: 4pt faster
+Draw: | sweep mode | 
+ViewAmplitude: 0.55 --> 0.05
+IncrementerShift: 3pt faster
+Draw: | sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -341ms behind
+IncrementerShift: 3pt faster
+Draw: | sweep mode | 
+PointsPerScreenFinal: disabling from 500pt for 640px + *2 loops  --> 1280pt
+PointsPerScreenFinal: disabling from 500pt for 640px - *0 loops  --> 500pt
+PointsPerScreenFinal: change from 500pt for 640px - *0 loops  --> 500pt
+IncrementerShift: 3pt faster
+Draw: | scroll mode | 
+IncrementerShift: 2pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 10240
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -672ms behind
+IncrementerShift: 2pt faster
+Draw: | scroll mode | 
+IncrementerShift: 2pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -291ms behind
+IncrementerShift: 2pt faster
+Draw: | scroll mode | 
+IncrementerShift: 1pt faster
+Draw: | scroll mode | 
+IncrementerShift: 1pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 10880
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -817ms behind
+IncrementerShift: 1pt faster
+Draw: | scroll mode | 
+IncrementerShift: 1pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+DeleteOld: 640 points deleted, total: 11520
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -566ms behind
+IncrementerShift: 1pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: disabling from 500pt for 640px + *2 loops  --> 1280pt
+PointsPerScreenFinal: disabling from 500pt for 640px - *0 loops  --> 500pt
+PointsPerScreenFinal: change from 500pt for 640px + *2 loops  --> 1280pt
+PointsPerScreenFinal: change from 1280pt for 640px + *2 loops  --> 1920pt
+PointsPerScreenFinal: change from 1920pt for 640px + *2 loops  --> 2560pt
+PointsPerScreenFinal: change from 2560pt for 640px + *2 loops  --> 3200pt
+PointsPerScreenFinal: change from 3200pt for 640px + *2 loops  --> 4480pt
+PointsPerScreenFinal: change from 4480pt for 640px + *2 loops  --> 5760pt
+PointsPerScreenFinal: change from 5760pt for 640px + *1 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+ViewAmplitude: 0.05 --> 0.55
+ViewAmplitude: 0.55 --> 0.05
+IncrementerShift: 1pt faster
+DrawZones: 14 crosses
+Draw: | scroll mode || chasing || sweep mode | 
+PointsPerScreenFinal: change from 6000pt for 640px - *2 loops  --> 4480pt
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -367ms behind
+IncrementerShift: 1pt faster
+DrawZones: 10 crosses
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerShift: 1pt faster
+DrawZones: 10 crosses
+Draw: | scroll mode || chasing || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -220ms behind
+IncrementerShift: 1pt faster
+DrawZones: 10 crosses
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerShift: 1pt faster
+DrawZones: 10 crosses
+Draw: | scroll mode || chasing || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -125ms behind
+IncrementerShift: 0pt faster
+DrawZones: 8 crosses
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerShift: 0pt faster
+DrawZones: 8 crosses
+Draw: | scroll mode || chasing || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -82ms behind
+IncrementerShift: 0pt faster
+DrawZones: 6 crosses
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerShift: 0pt faster
+DrawZones: 6 crosses
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerShift: 0pt faster
+DrawZones: 6 crosses
+Draw: | scroll mode || chasing || sweep mode | 
+PointsPerScreenFinal: disabling from 4480pt for 640px + *2 loops  --> 5760pt
+PointsPerScreenFinal: disabling from 4480pt for 640px - *2 loops  --> 3200pt
+IncrementerShift: 0pt faster
+DrawZones: 6 crosses
+Draw: | chasing || sweep mode | 
+IncrementerShift: 0pt faster
+DrawZones: 6 crosses
+Draw: | chasing || sweep mode | 
+PointsPerScreenFinal: change from 4480pt for 640px - *2 loops  --> 3200pt
+ViewAmplitude: 0.05 --> 0.05
+IncrementerShift: 0pt faster
+DrawZones: 1 crosses
+Draw: | chasing || sweep mode | 
+IncrementerShift: 0pt faster
+DrawZones: 1 crosses
+Draw: | chasing || sweep mode | 
+IncrementerShift: 0pt faster
+DrawZones: 1 crosses
+Draw: | chasing || sweep mode | 
+ViewAmplitude: 0.05 --> 0.55
+IncrementerShift: 0pt faster
+DrawZones: 1 crosses
+Draw: | chasing || sweep mode | 
+IncrementerShift: 0pt faster
+DrawZones: 1 crosses
+Draw: | chasing || sweep mode | 
+IncrementerShift: 0pt faster
+DrawZones: 1 crosses
+Draw: | chasing || sweep mode | 
+IncrementerShift: 0pt faster
+DrawZones: 1 crosses
+Draw: | chasing || sweep mode | 
+IncrementerShift: 0pt faster
+DrawZones: 1 crosses
+Draw: | chasing || sweep mode | 
+PointsPerScreenFinal: disabling from 3200pt for 640px + *2 loops  --> 4480pt
+PointsPerScreenFinal: disabling from 3200pt for 640px - *0 loops  --> 2560pt
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -70ms behind
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: change from 3200pt for 640px - *0 loops  --> 2560pt
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+ViewAmplitude: 0.55 --> 0.05
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -41ms behind
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: disabling from 2560pt for 640px + *2 loops  --> 3200pt
+PointsPerScreenFinal: disabling from 2560pt for 640px - *0 loops  --> 1920pt
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+DeleteOld: 2560 points deleted, total: 14080
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+DeleteOld: 2560 points deleted, total: 16640
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+DeleteOld: 2560 points deleted, total: 19200
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+EmulatorStep: 0th channel
+DeleteOld: 2560 points deleted, total: 21760
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerSkip: 6167ms current skip
+IncrementerAccelerating: 1199pt current speed up
+IncrementerShift: 119pt faster
+IncrementerEscapesZombies: dont stall in deleted zone
+Draw: | scroll mode || sweep mode | 
+IncrementerSkip: 12304ms current skip
+IncrementerShift: 108pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerSkip: 18410ms current skip
+IncrementerShift: 97pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerSkip: 24484ms current skip
+IncrementerShift: 87pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+PointsPerScreenFinal: change from 2560pt for 640px + *2 loops  --> 3200pt
+ViewAmplitude: 0.05 --> 0.55
+ViewAmplitude: 0.55 --> 0.05
+IncrementerSkip: 30524ms current skip
+IncrementerShift: 78pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerSkip: 36530ms current skip
+IncrementerShift: 71pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerSkip: 42499ms current skip
+IncrementerShift: 63pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerSkip: 48431ms current skip
+IncrementerShift: 57pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerShift: 51pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerShift: 46pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+PointsPerScreenFinal: disabling from 3200pt for 640px + *2 loops  --> 4480pt
+PointsPerScreenFinal: disabling from 3200pt for 640px - *0 loops  --> 2560pt
+IncrementerShift: 42pt faster
+Draw: | chasing || sweep mode | 
+IncrementerShift: 38pt faster
+Draw: | chasing || sweep mode | 
+IncrementerShift: 34pt faster
+Draw: | chasing || sweep mode | 
+IncrementerShift: 30pt faster
+Draw: | chasing || sweep mode | 
+IncrementerShift: 27pt faster
+Draw: | chasing || sweep mode | 
+PointsPerScreenFinal: change from 3200pt for 640px + *2 loops  --> 4480pt
+ViewAmplitude: 0.05 --> 0.55
+IncrementerShift: 25pt faster
+Draw: | chasing || sweep mode | 
+IncrementerShift: 22pt faster
+Draw: | chasing || sweep mode | 
+IncrementerShift: 20pt faster
+Draw: | chasing || sweep mode | 
+ViewAmplitude: 0.55 --> 0.05
+IncrementerShift: 18pt faster
+Draw: | chasing || sweep mode | 
+IncrementerShift: 16pt faster
+Draw: | chasing || sweep mode | 
+PointsPerScreenFinal: disabling from 4480pt for 640px + *2 loops  --> 5760pt
+PointsPerScreenFinal: disabling from 4480pt for 640px - *2 loops  --> 3200pt
+IncrementerShift: 15pt faster
+Draw: | scroll mode | 
+IncrementerShift: 13pt faster
+Draw: | scroll mode | 
+IncrementerShift: 12pt faster
+Draw: | scroll mode | 
+IncrementerShift: 11pt faster
+Draw: | scroll mode | 
+IncrementerShift: 9pt faster
+Draw: | scroll mode | 
+IncrementerShift: 9pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: change from 4480pt for 640px + *2 loops  --> 5760pt
+ViewAmplitude: 0.05 --> 0.55
+IncrementerShift: 8pt faster
+Draw: | scroll mode | 
+IncrementerShift: 7pt faster
+Draw: | scroll mode | 
+IncrementerShift: 6pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -647ms behind
+IncrementerShift: 6pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: disabling from 5760pt for 640px + *1 loops  --> 6000pt
+PointsPerScreenFinal: disabling from 5760pt for 640px - *2 loops  --> 4480pt
+IncrementerShift: 5pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -8ms behind
+IncrementerShift: 4pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+ViewAmplitude: 0.55 --> 0.05
+IncrementerShift: 4pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerShift: 4pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -147ms behind
+IncrementerShift: 3pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerShift: 3pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerShift: 3pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+PointsPerScreenFinal: change from 5760pt for 640px + *1 loops  --> 6000pt
+ViewAmplitude: 0.05 --> 0.55
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -403ms behind
+IncrementerShift: 2pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerShift: 2pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerShift: 2pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+PointsPerScreenFinal: disabling from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: disabling from 6000pt for 640px - *2 loops  --> 4480pt
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -776ms behind
+IncrementerShift: 2pt faster
+Draw: | chasing || sweep mode | 
+IncrementerShift: 2pt faster
+Draw: | chasing || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -423ms behind
+IncrementerShift: 1pt faster
+Draw: | chasing || sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | chasing || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -122ms behind
+IncrementerShift: 1pt faster
+Draw: | chasing || sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | chasing || sweep mode | 
+ViewAmplitude: 0.55 --> 0.05
+IncrementerShift: 1pt faster
+Draw: | chasing || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -768ms behind
+IncrementerShift: 1pt faster
+Draw: | chasing || sweep mode | 
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+ViewAmplitude: 0.05 --> 0.55
+IncrementerShift: 1pt faster
+Draw: | chasing || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -597ms behind
+IncrementerShift: 1pt faster
+Draw: | chasing || sweep mode | 
+PointsPerScreenFinal: disabling from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: disabling from 6000pt for 640px - *2 loops  --> 4480pt
+IncrementerShift: 1pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -478ms behind
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -411ms behind
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -396ms behind
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+ViewAmplitude: 0.55 --> 1.05
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: disabling from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: disabling from 6000pt for 640px - *2 loops  --> 4480pt
+ViewAmplitude: 1.05 --> 0.55
+IncrementerShift: 0pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+PointsPerScreenFinal: disabling from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: disabling from 6000pt for 640px - *2 loops  --> 4480pt
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+ViewAmplitude: 0.55 --> 1.05
+IncrementerShift: 0pt faster
+Draw: | chasing || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -148ms behind
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+ViewAmplitude: 1.05 --> 0.55
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | chasing || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -272ms behind
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+PointsPerScreenFinal: disabling from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: disabling from 6000pt for 640px - *2 loops  --> 4480pt
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+ViewAmplitude: 0.55 --> 1.05
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -22ms behind
+IncrementerAccelerating: 43pt current speed up
+IncrementerShift: 4pt faster
+Draw: | scroll mode | 
+IncrementerShift: 3pt faster
+Draw: | scroll mode | 
+IncrementerShift: 3pt faster
+Draw: | scroll mode | 
+IncrementerShift: 3pt faster
+Draw: | scroll mode | 
+ViewAmplitude: 1.05 --> 0.55
+IncrementerShift: 3pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -97ms behind
+IncrementerShift: 2pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: disabling from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: disabling from 6000pt for 640px - *2 loops  --> 4480pt
+IncrementerShift: 2pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 2pt faster
+Draw: | scroll mode || sweep mode | 
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+ViewAmplitude: 0.55 --> 1.05
+IncrementerShift: 2pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -497ms behind
+IncrementerShift: 1pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | scroll mode || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -93ms behind
+IncrementerAccelerating: 43pt current speed up
+IncrementerShift: 4pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 3pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 3pt faster
+Draw: | scroll mode || sweep mode | 
+PointsPerScreenFinal: disabling from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: disabling from 6000pt for 640px - *2 loops  --> 4480pt
+IncrementerShift: 3pt faster
+Draw: | chasing || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -403ms behind
+IncrementerShift: 3pt faster
+Draw: | sweep mode | 
+ViewAmplitude: 1.05 --> 0.55
+IncrementerShift: 2pt faster
+Draw: | sweep mode | 
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+ViewAmplitude: 0.55 --> 1.05
+IncrementerShift: 2pt faster
+Draw: | sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -272ms behind
+IncrementerShift: 2pt faster
+Draw: | sweep mode | 
+IncrementerShift: 2pt faster
+Draw: | sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -258ms behind
+IncrementerShift: 1pt faster
+Draw: | sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | chasing || sweep mode | 
+PointsPerScreenFinal: disabling from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: disabling from 6000pt for 640px - *2 loops  --> 4480pt
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -361ms behind
+IncrementerShift: 1pt faster
+Draw: | scroll mode | 
+IncrementerShift: 1pt faster
+Draw: | scroll mode | 
+IncrementerShift: 1pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -581ms behind
+IncrementerShift: 1pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+ViewAmplitude: 1.05 --> 1.55
+IncrementerShift: 1pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -126ms behind
+IncrementerAccelerating: 43pt current speed up
+IncrementerShift: 4pt faster
+Draw: | scroll mode | 
+ViewAmplitude: 1.55 --> 1.05
+IncrementerShift: 3pt faster
+Draw: | scroll mode | 
+IncrementerShift: 3pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -541ms behind
+IncrementerShift: 3pt faster
+Draw: | scroll mode | 
+IncrementerShift: 3pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: disabling from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: disabling from 6000pt for 640px - *2 loops  --> 4480pt
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -216ms behind
+IncrementerShift: 2pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 2pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 2pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -826ms behind
+IncrementerShift: 2pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+ViewAmplitude: 1.05 --> 1.55
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -631ms behind
+IncrementerShift: 1pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | scroll mode || chasing || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -488ms behind
+IncrementerShift: 1pt faster
+Draw: | scroll mode || sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | scroll mode || sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -397ms behind
+IncrementerShift: 1pt faster
+Draw: | scroll mode || sweep mode | 
+PointsPerScreenFinal: disabling from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: disabling from 6000pt for 640px - *2 loops  --> 4480pt
+ViewAmplitude: 1.55 --> 1.05
+IncrementerShift: 1pt faster
+Draw: | sweep mode | 
+EmulatorStep: 0th channel
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -358ms behind
+IncrementerShift: 1pt faster
+Draw: | sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | sweep mode | 
+IncrementerShift: 1pt faster
+Draw: | sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+ViewAmplitude: 1.05 --> 1.55
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+IncrementerShift: 0pt faster
+Draw: | sweep mode | 
+PointsPerScreenFinal: disabling from 6000pt for 640px + *0 loops  --> 6000pt
+PointsPerScreenFinal: disabling from 6000pt for 640px - *2 loops  --> 4480pt
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+ViewAmplitude: 1.55 --> 1.05
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+PointsPerScreenFinal: change from 6000pt for 640px + *0 loops  --> 6000pt
+ViewAmplitude: 1.05 --> 1.55
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+EmulatorStep: 0th channel
+DeleteOld: 5760 points deleted, total: 27520
+EmulatorStep: 1th channel
+EmulatorStep: 2th channel
+IncrementerAcquire: -126ms behind
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+IncrementerShift: 0pt faster
+Draw: | scroll mode | 
+App: Terminating...
+App: Terminated.
+TestAll: Ended.

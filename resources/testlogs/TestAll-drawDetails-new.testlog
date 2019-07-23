@@ -1,0 +1,176 @@
+
+AtStep: 120
+--------------------
+DrawBlock: (49, 2) [43 x 164]
+Draw: Adjusting for incomplete screen: 832
+DrawFirst: [518] 0x28
+DrawSample: 0x28
+DrawDone: 727 segments, 0 crosses, [1244 last], average Y = 28, color: 0, 80, 255
+Draw: | scroll mode |
+Draw: | chasing |
+DrawFirst: [0] 0x196
+DrawSample: skipping x = 0
+DrawSample: 0x(196...196) -> 1x196
+DrawDone: 1245 segments, 0 crosses, [1244 last], average Y = 196, color: 0, 80, 255
+DrawCross: [-1354] 10th cross
+DrawDone: 0 segments, 14 crosses, [Never drawn last], average Y = 0, color: 144, 170, 229
+Draw: | sweep mode |
+Draw: Adjusting for incomplete screen: 832
+DrawFirst: [518] 0x84
+DrawSample: 0x84
+DrawDone: 727 segments, 0 crosses, [1244 last], average Y = 84, color: 50, 152, 88
+Draw: | scroll mode |
+Draw: | chasing |
+DrawFirst: [0] 0x252
+DrawSample: skipping x = 0
+DrawSample: 0x(252...252) -> 1x252
+DrawDone: 1245 segments, 0 crosses, [1244 last], average Y = 252, color: 50, 152, 88
+DrawCross: [-1354] 10th cross
+DrawDone: 0 segments, 14 crosses, [Never drawn last], average Y = 0, color: 150, 184, 163
+Draw: | sweep mode |
+Draw: Adjusting for incomplete screen: 832
+DrawFirst: [518] 0x140
+DrawSample: 0x140
+DrawDone: 727 segments, 0 crosses, [1244 last], average Y = 140, color: 100, 50, 255
+Draw: | scroll mode |
+Draw: | chasing |
+DrawFirst: [0] 0x308
+DrawSample: skipping x = 0
+DrawSample: 0x(308...308) -> 1x308
+DrawDone: 1245 segments, 0 crosses, [1244 last], average Y = 308, color: 100, 50, 255
+DrawCross: [-1354] 10th cross
+DrawDone: 0 segments, 14 crosses, [Never drawn last], average Y = 0, color: 193, 176, 245
+Draw: | sweep mode |
+DrawBlock: (107, 323) [43 x 332] (unstable)
+
+AtStep: 121
+--------------------
+DrawBlock: (118, 2) [55 x 164]
+Draw: Adjusting for incomplete screen: 1221
+DrawFirst: [519] 0x28
+DrawSample: 0x28
+DrawDone: 903 segments, 0 crosses, [1421 last], average Y = 28, color: 0, 80, 255
+Draw: | scroll mode |
+Draw: | chasing |
+DrawCross: [-29] 10th cross
+DrawFirst: [0] 366x196
+DrawSample: skipping x = 366
+DrawSample: 366x(196...196) -> 367x196
+DrawDone: 1422 segments, 10 crosses, [1421 last], average Y = 196, color: 0, 80, 255
+DrawDone: 0 segments, 0 crosses, [Never drawn last], average Y = 0, color: 144, 170, 229
+Draw: | sweep mode |
+Draw: Adjusting for incomplete screen: 1221
+DrawFirst: [519] 0x84
+DrawSample: 0x84
+DrawDone: 903 segments, 0 crosses, [1421 last], average Y = 84, color: 50, 152, 88
+Draw: | scroll mode |
+Draw: | chasing |
+DrawCross: [-29] 10th cross
+DrawFirst: [0] 366x252
+DrawSample: skipping x = 366
+DrawSample: 366x(252...252) -> 367x252
+DrawDone: 1422 segments, 10 crosses, [1421 last], average Y = 252, color: 50, 152, 88
+DrawDone: 0 segments, 0 crosses, [Never drawn last], average Y = 0, color: 150, 184, 163
+Draw: | sweep mode |
+Draw: Adjusting for incomplete screen: 1221
+DrawFirst: [519] 0x140
+DrawSample: 0x140
+DrawDone: 903 segments, 0 crosses, [1421 last], average Y = 140, color: 100, 50, 255
+Draw: | scroll mode |
+Draw: | chasing |
+DrawCross: [-29] 10th cross
+DrawFirst: [0] 366x308
+DrawSample: skipping x = 366
+DrawSample: 366x(308...308) -> 367x308
+DrawDone: 1422 segments, 10 crosses, [1421 last], average Y = 308, color: 100, 50, 255
+DrawDone: 0 segments, 0 crosses, [Never drawn last], average Y = 0, color: 193, 176, 245
+Draw: | sweep mode |
+DrawBlock: (559, 323) [55 x 332] (unstable)
+
+AtStep: 122
+--------------------
+DrawBlock: (118, 2) [55 x 164]
+Draw: Adjusting for incomplete screen: 1220
+DrawFirst: [520] 0x28
+DrawSample: 0x28
+DrawDone: 1081 segments, 0 crosses, [1600 last], average Y = 28, color: 0, 80, 255
+Draw: | scroll mode |
+Draw: | chasing |
+DrawCross: [-29] 10th cross
+DrawFirst: [0] 366x196
+DrawSample: skipping x = 366
+DrawSample: 366x(196...196) -> 367x196
+DrawDone: 1601 segments, 10 crosses, [1600 last], average Y = 196, color: 0, 80, 255
+DrawDone: 0 segments, 0 crosses, [Never drawn last], average Y = 0, color: 144, 170, 229
+Draw: | sweep mode |
+Draw: Adjusting for incomplete screen: 1220
+DrawFirst: [520] 0x84
+DrawSample: 0x84
+DrawDone: 1081 segments, 0 crosses, [1600 last], average Y = 84, color: 50, 152, 88
+Draw: | scroll mode |
+Draw: | chasing |
+DrawCross: [-29] 10th cross
+DrawFirst: [0] 366x252
+DrawSample: skipping x = 366
+DrawSample: 366x(252...252) -> 367x252
+DrawDone: 1601 segments, 10 crosses, [1600 last], average Y = 252, color: 50, 152, 88
+DrawDone: 0 segments, 0 crosses, [Never drawn last], average Y = 0, color: 150, 184, 163
+Draw: | sweep mode |
+Draw: Adjusting for incomplete screen: 1220
+DrawFirst: [520] 0x140
+DrawSample: 0x140
+DrawDone: 1081 segments, 0 crosses, [1600 last], average Y = 140, color: 100, 50, 255
+Draw: | scroll mode |
+Draw: | chasing |
+DrawCross: [-29] 10th cross
+DrawFirst: [0] 366x308
+DrawSample: skipping x = 366
+DrawSample: 366x(308...308) -> 367x308
+DrawDone: 1601 segments, 10 crosses, [1600 last], average Y = 308, color: 100, 50, 255
+DrawDone: 0 segments, 0 crosses, [Never drawn last], average Y = 0, color: 193, 176, 245
+Draw: | sweep mode |
+DrawBlock: (559, 323) [55 x 332] (unstable)
+
+AtStep: 123
+--------------------
+DrawBlock: (174, 2) [55 x 164]
+Draw: Adjusting for incomplete screen: 1609
+DrawFirst: [521] 0x28
+DrawSample: 0x28
+DrawDone: 1262 segments, 0 crosses, [1782 last], average Y = 28, color: 0, 80, 255
+Draw: | scroll mode |
+Draw: | chasing |
+DrawDone: 0 segments, 0 crosses, [Never drawn last], average Y = 0, color: 0, 80, 255
+DrawCross: [-29] 10th cross
+DrawFirst: [0] 366x196
+DrawSample: skipping x = 366
+DrawSample: 366x(196...196) -> 367x196
+DrawDone: 1783 segments, 10 crosses, [1782 last], average Y = 196, color: 91, 132, 222
+Draw: | sweep mode |
+Draw: Adjusting for incomplete screen: 1609
+DrawFirst: [521] 0x84
+DrawSample: 0x84
+DrawDone: 1262 segments, 0 crosses, [1782 last], average Y = 84, color: 50, 152, 88
+Draw: | scroll mode |
+Draw: | chasing |
+DrawDone: 0 segments, 0 crosses, [Never drawn last], average Y = 0, color: 50, 152, 88
+DrawCross: [-29] 10th cross
+DrawFirst: [0] 366x252
+DrawSample: skipping x = 366
+DrawSample: 366x(252...252) -> 367x252
+DrawDone: 1783 segments, 10 crosses, [1782 last], average Y = 252, color: 109, 162, 129
+Draw: | sweep mode |
+Draw: Adjusting for incomplete screen: 1609
+DrawFirst: [521] 0x140
+DrawSample: 0x140
+DrawDone: 1262 segments, 0 crosses, [1782 last], average Y = 140, color: 100, 50, 255
+Draw: | scroll mode |
+Draw: | chasing |
+DrawDone: 0 segments, 0 crosses, [Never drawn last], average Y = 0, color: 100, 50, 255
+DrawCross: [-29] 10th cross
+DrawFirst: [0] 366x308
+DrawSample: skipping x = 366
+DrawSample: 366x(308...308) -> 367x308
+DrawDone: 1783 segments, 10 crosses, [1782 last], average Y = 308, color: 154, 128, 234
+Draw: | sweep mode |
+DrawBlock: (-25, 323) [55 x 332] (unstable)

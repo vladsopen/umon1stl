@@ -1,0 +1,110 @@
+<html>
+<body>
+    Before the beginning.
+    <br />
+
+    <div id="container"
+          style="
+            position: relative;
+            display: flex;
+        ">
+
+        Before overlay xxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+        <div id="main"
+             style="
+            position: relative;
+            ">
+
+            <button id="controls"
+                    style="
+                "
+                    onclick="addToControls(); repaintCanvas()">
+                Click me! <br /> This button is overlayed by canvas!
+
+                <div id="nestedflex"
+                      style="
+                        position: relative;
+                        display: flex;
+                    ">
+                    <div>nested1</div>
+                    <div>nested2</div>
+                    <div>nested3</div>
+                </div>
+
+            </button>
+
+            <canvas id="myCanvas"
+                    style="
+                top: 0;
+                left: 0;
+                position: absolute;
+                width: 100%;
+                height: 100%;
+
+                /* border: 4px solid #239cab; */
+
+                pointer-events: none;
+
+            "></canvas>
+
+        </div>
+
+        After canvas.
+
+        <script>
+            function repaintCanvas() {
+                var canvas = document.getElementById("myCanvas");
+                //var sizeTo = document.getElementById("controls");
+
+                //clientWidth = canvas.getClientWidth();
+                //clientHeight = canvas.getClientHeight();
+
+                //setupCoordinateSpace(canvas, clientWidth, clientHeight);
+
+                var ctx = canvas.getContext("2d");
+
+                // clear canvas
+                canvas.width = canvas.offsetWidth;
+                canvas.height = canvas.offsetHeight;
+
+                ctx.beginPath();
+
+                ctx.lineWidth = 5;
+                ctx.strokeStyle = 'blue';
+
+                ctx.lineTo(0, 0);
+                ctx.lineTo(canvas.width, canvas.height);
+
+                ctx.stroke();
+                ctx.beginPath();
+
+                ctx.lineWidth = 1.5;
+                ctx.strokeStyle = 'red';
+
+                for (var i = 0; i < 10; i++) {
+                    var x = Math.random() * 100,
+                        y = Math.random() * 100;
+                    ctx.lineTo(x, y);
+                }
+
+                ctx.fillStyle = "#FF0000";
+                ctx.fillRect(100, 100, 20, 20);
+
+                ctx.stroke();
+            }
+            
+            function addToControls()
+            {
+                let controls = document.getElementById("controls");
+                controls.innerHTML += "<span><br/>added line</span>";
+            }
+
+        </script>
+
+    </div>
+
+    <br />
+    After the end.
+</body>
+</html>

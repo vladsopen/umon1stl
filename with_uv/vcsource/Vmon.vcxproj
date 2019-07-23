@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{52C97008-AAF5-47DA-B639-DF1B49459757}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>Vmon</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>.\..\..\..\build-vc-$(Configuration)\</OutDir>
+    <IntDir>.\..\..\..\build-vc-$(Configuration)\tmp\</IntDir>
+    <IncludePath>..\..\portable\app;..\..\portable\uiframework;..\..\portable\useful;..\..\portable\tests;C:\Qt\Qt5.5.1\5.5\Src\qtbase\include;C:\Qt\Qt5.5.1\5.5\Src\qtbase\include\QtCore;C:\Qt\Qt5.5.1\5.5\Src\qtbase\include\QtGui;C:\Qt\Qt5.5.1\5.5\Src\qtbase\include\QtWidgets;$(IncludePath)</IncludePath>
+    <CodeAnalysisRuleSet>check_all_rules.ruleset</CodeAnalysisRuleSet>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>../../portable/app/storage;../../portable/tests;../../portable/app/ui/view;../../portable/app/ui/drawing;../../portable/app/ui/controls;../../portable/app/streaming;../../portable/app/main;../../portable/useful;../../portable/uiframework;$(IncludePath)</IncludePath>
+    <CodeAnalysisRuleSet>NativeRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+    <OutDir>$(SolutionDir)..\..\..\build-vc-$(Platform)-$(Configuration)\</OutDir>
+    <IntDir>$(SolutionDir)..\..\..\build-vc-$(Platform)-$(Configuration)\tmp</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IntDir>.\..\..\..\build-vc-$(Configuration)\tmp\</IntDir>
+    <OutDir>.\..\..\..\build-vc-$(Configuration)\</OutDir>
+    <IncludePath>..\..\portable\app;..\..\portable\uiframework;..\..\portable\useful;..\..\portable\tests;C:\Qt\Qt5.5.1\5.5\Src\qtbase\include;C:\Qt\Qt5.5.1\5.5\Src\qtbase\include\QtCore;C:\Qt\Qt5.5.1\5.5\Src\qtbase\include\QtGui;C:\Qt\Qt5.5.1\5.5\Src\qtbase\include\QtWidgets;$(IncludePath)</IncludePath>
+    <CodeAnalysisRuleSet>check_all_rules.ruleset</CodeAnalysisRuleSet>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SolutionDir)..\..\..\build-vc-$(Platform)-$(Configuration)\</OutDir>
+    <IntDir>$(SolutionDir)..\..\..\build-vc-$(Platform)-$(Configuration)\tmp</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeaderFile>application.h</PrecompiledHeaderFile>
+      <TreatWarningAsError>true</TreatWarningAsError>
+      <EnforceTypeConversionRules>false</EnforceTypeConversionRules>
+      <EnablePREfast>true</EnablePREfast>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level4</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <TreatWarningAsError>true</TreatWarningAsError>
+      <EnablePREfast>true</EnablePREfast>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeaderFile>application.h</PrecompiledHeaderFile>
+      <TreatWarningAsError>true</TreatWarningAsError>
+      <EnforceTypeConversionRules>false</EnforceTypeConversionRules>
+      <EnablePREfast>true</EnablePREfast>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Vmon.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico" />
+    <Image Include="Vmon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\portable\app\main\application.cpp" />
+    <ClCompile Include="..\..\portable\app\main\version.cpp" />
+    <ClCompile Include="..\..\portable\app\storage\storage.cpp" />
+    <ClCompile Include="..\..\portable\app\storage\wave.cpp" />
+    <ClCompile Include="..\..\portable\app\storage\waves.cpp" />
+    <ClCompile Include="..\..\portable\app\streaming\emulator.cpp" />
+    <ClCompile Include="..\..\portable\app\streaming\feeder.cpp" />
+    <ClCompile Include="..\..\portable\app\streaming\incrementer.cpp" />
+    <ClCompile Include="..\..\portable\app\ui\controls\design.cpp" />
+    <ClCompile Include="..\..\portable\app\ui\controls\makeappmainwindow.cpp" />
+    <ClCompile Include="..\..\portable\app\ui\controls\makegraphics.cpp" />
+    <ClCompile Include="..\..\portable\app\ui\controls\maketoolbarabove.cpp" />
+    <ClCompile Include="..\..\portable\app\ui\controls\maketoolbarbelow.cpp" />
+    <ClCompile Include="..\..\portable\app\ui\drawing\drawback.cpp" />
+    <ClCompile Include="..\..\portable\app\ui\drawing\drawblock.cpp" />
+    <ClCompile Include="..\..\portable\app\ui\drawing\drawranges.cpp" />
+    <ClCompile Include="..\..\portable\app\ui\drawing\drawtest.cpp" />
+    <ClCompile Include="..\..\portable\app\ui\drawing\drawwave.cpp" />
+    <ClCompile Include="..\..\portable\app\ui\drawing\drawzones.cpp" />
+    <ClCompile Include="..\..\portable\app\ui\view\scaler.cpp" />
+    <ClCompile Include="..\..\portable\app\ui\view\view.cpp" />
+    <ClCompile Include="..\..\portable\tests\localtest.cpp" />
+    <ClCompile Include="..\..\portable\tests\testall.cpp" />
+    <ClCompile Include="..\..\portable\tests\testscaler.cpp" />
+    <ClCompile Include="..\..\portable\uiframework\defineui.cpp" />
+    <ClCompile Include="..\..\portable\uiframework\uicontext.cpp" />
+    <ClCompile Include="..\..\portable\uiframework\uicontrols.cpp" />
+    <ClCompile Include="..\..\portable\uiframework\uipaint.cpp" />
+    <ClCompile Include="..\..\portable\uiframework\uirgb.cpp" />
+    <ClCompile Include="..\..\portable\uiframework\uixy.cpp" />
+    <ClCompile Include="..\..\portable\uiframework\weakmap.cpp" />
+    <ClCompile Include="..\..\portable\useful\common.cpp" />
+    <ClCompile Include="..\..\portable\useful\fromto.cpp" />
+    <ClCompile Include="..\..\portable\useful\io.cpp" />
+    <ClCompile Include="..\..\portable\useful\log.cpp" />
+    <ClCompile Include="..\..\portable\useful\logs.cpp" />
+    <ClCompile Include="..\..\portable\useful\object.cpp" />
+    <ClCompile Include="..\..\portable\useful\property.cpp" />
+    <ClCompile Include="..\..\portable\useful\useful.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\portable\app\main\application.h" />
+    <ClInclude Include="..\..\portable\app\main\version.h" />
+    <ClInclude Include="..\..\portable\app\storage\storage.h" />
+    <ClInclude Include="..\..\portable\app\storage\wave.h" />
+    <ClInclude Include="..\..\portable\app\storage\waves.h" />
+    <ClInclude Include="..\..\portable\app\streaming\emulator.h" />
+    <ClInclude Include="..\..\portable\app\streaming\feeder.h" />
+    <ClInclude Include="..\..\portable\app\streaming\incrementer.h" />
+    <ClInclude Include="..\..\portable\app\ui\controls\design.h" />
+    <ClInclude Include="..\..\portable\app\ui\controls\makeappmainwindow.h" />
+    <ClInclude Include="..\..\portable\app\ui\controls\makegraphics.h" />
+    <ClInclude Include="..\..\portable\app\ui\controls\maketoolbarabove.h" />
+    <ClInclude Include="..\..\portable\app\ui\controls\maketoolbarbelow.h" />
+    <ClInclude Include="..\..\portable\app\ui\drawing\drawback.h" />
+    <ClInclude Include="..\..\portable\app\ui\drawing\drawblock.h" />
+    <ClInclude Include="..\..\portable\app\ui\drawing\drawranges.h" />
+    <ClInclude Include="..\..\portable\app\ui\drawing\drawtest.h" />
+    <ClInclude Include="..\..\portable\app\ui\drawing\drawwave.h" />
+    <ClInclude Include="..\..\portable\app\ui\drawing\drawzones.h" />
+    <ClInclude Include="..\..\portable\app\ui\view\scaler.h" />
+    <ClInclude Include="..\..\portable\app\ui\view\view.h" />
+    <ClInclude Include="..\..\portable\tests\localtest.h" />
+    <ClInclude Include="..\..\portable\tests\testall.h" />
+    <ClInclude Include="..\..\portable\tests\testscaler.h" />
+    <ClInclude Include="..\..\portable\uiframework\defineui.h" />
+    <ClInclude Include="..\..\portable\uiframework\uicontext.h" />
+    <ClInclude Include="..\..\portable\uiframework\uicontrols.h" />
+    <ClInclude Include="..\..\portable\uiframework\uipaint.h" />
+    <ClInclude Include="..\..\portable\uiframework\uirgb.h" />
+    <ClInclude Include="..\..\portable\uiframework\uixy.h" />
+    <ClInclude Include="..\..\portable\uiframework\weakmap.h" />
+    <ClInclude Include="..\..\portable\useful\common.h" />
+    <ClInclude Include="..\..\portable\useful\defines.h" />
+    <ClInclude Include="..\..\portable\useful\external\tessil\ordered_hash.h" />
+    <ClInclude Include="..\..\portable\useful\external\tessil\ordered_map.h" />
+    <ClInclude Include="..\..\portable\useful\fromto.h" />
+    <ClInclude Include="..\..\portable\useful\io.h" />
+    <ClInclude Include="..\..\portable\useful\log.h" />
+    <ClInclude Include="..\..\portable\useful\logs.h" />
+    <ClInclude Include="..\..\portable\useful\object.h" />
+    <ClInclude Include="..\..\portable\useful\property.h" />
+    <ClInclude Include="..\..\portable\useful\useful.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\portable\useful\external\tessil\LICENSE" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\portable\useful\external\tessil\url.txt" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

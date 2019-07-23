@@ -1,0 +1,179 @@
+Wave: Empty: [0]: [] max=0, deleted=0.
+Wave: Empty: [1]: [] max=0, deleted=0.
+Wave: Empty: [2]: [] max=0, deleted=0.
+Waves: Empty: total 0pts (0pt last)
+
+Wave: Loop0: [0]: [] max=111, deleted=0.
+Wave: Loop0: [1]: [] max=211, deleted=0.
+Wave: Loop0: [2]: [] max=311, deleted=0.
+Waves: Loop0: total 0pts (0pt last)
+
+DeleteOld: 1 points deleted, total: 1
+DeleteOld: 1 points deleted, total: 2
+DeleteOld: 1 points deleted, total: 3
+DeleteOld: 1 points deleted, total: 4
+Wave: Loop1: [0]: [-55555, 1005, 2006, ] max=111, deleted=4.
+Wave: Loop1: [1]: [-55555, 1005, 2006, ] max=211, deleted=4.
+Wave: Loop1: [2]: [-55555, 1005, 2006, ] max=311, deleted=4.
+Waves: Loop1: total 7pts (7pt last)
+
+DeleteOld: 1 points deleted, total: 5
+DeleteOld: 1 points deleted, total: 6
+DeleteOld: 1 points deleted, total: 7
+DeleteOld: 1 points deleted, total: 8
+DeleteOld: 1 points deleted, total: 9
+DeleteOld: 1 points deleted, total: 10
+DeleteOld: 1 points deleted, total: 11
+DeleteOld: 1 points deleted, total: 12
+DeleteOld: 1 points deleted, total: 13
+Wave: Loop2: [0]: [2006, 1007, 2008, ] max=111, deleted=13.
+Wave: Loop2: [1]: [2006, 1007, 2008, ] max=211, deleted=13.
+Wave: Loop2: [2]: [2006, 1007, 2008, ] max=311, deleted=13.
+Waves: Loop2: total 16pts (9pt last)
+
+DeleteOld: 1 points deleted, total: 14
+DeleteOld: 1 points deleted, total: 15
+DeleteOld: 1 points deleted, total: 16
+DeleteOld: 1 points deleted, total: 17
+DeleteOld: 1 points deleted, total: 18
+DeleteOld: 1 points deleted, total: 19
+DeleteOld: 1 points deleted, total: 20
+DeleteOld: 1 points deleted, total: 21
+DeleteOld: 1 points deleted, total: 22
+Wave: Loop3: [0]: [2006, 1007, 2008, 1009, 2010, ] max=111, deleted=22.
+Wave: Loop3: [1]: [2006, 1007, 2008, 1009, 2010, ] max=211, deleted=22.
+Wave: Loop3: [2]: [2006, 1007, 2008, 1009, 2010, ] max=311, deleted=22.
+Waves: Loop3: total 27pts (11pt last)
+
+DeleteOld: 1 points deleted, total: 23
+DeleteOld: 1 points deleted, total: 24
+DeleteOld: 1 points deleted, total: 25
+DeleteOld: 1 points deleted, total: 26
+DeleteOld: 1 points deleted, total: 27
+DeleteOld: 1 points deleted, total: 28
+DeleteOld: 1 points deleted, total: 29
+DeleteOld: 1 points deleted, total: 30
+DeleteOld: 1 points deleted, total: 31
+DeleteOld: 1 points deleted, total: 32
+DeleteOld: 1 points deleted, total: 33
+Wave: Loop4: [0]: [2006, 1007, 2008, 1009, 2010, 1011, 2012, ] max=111, deleted=33.
+Wave: Loop4: [1]: [2006, 1007, 2008, 1009, 2010, 1011, 2012, ] max=211, deleted=33.
+Wave: Loop4: [2]: [2006, 1007, 2008, 1009, 2010, 1011, 2012, ] max=311, deleted=33.
+Waves: Loop4: total 40pts (13pt last)
+
+DeleteOld: 1 points deleted, total: 34
+DeleteOld: 1 points deleted, total: 35
+DeleteOld: 1 points deleted, total: 36
+DeleteOld: 1 points deleted, total: 37
+DeleteOld: 1 points deleted, total: 38
+DeleteOld: 1 points deleted, total: 39
+DeleteOld: 1 points deleted, total: 40
+DeleteOld: 1 points deleted, total: 41
+DeleteOld: 1 points deleted, total: 42
+DeleteOld: 1 points deleted, total: 43
+DeleteOld: 1 points deleted, total: 44
+DeleteOld: 1 points deleted, total: 45
+DeleteOld: 1 points deleted, total: 46
+DeleteOld: 1 points deleted, total: 47
+DeleteOld: 1 points deleted, total: 48
+Wave: Loop5: [0]: [2008, 1009, 2010, 1011, 2012, 1013, 2014, ] max=111, deleted=48.
+Wave: Loop5: [1]: [2008, 1009, 2010, 1011, 2012, 1013, 2014, ] max=211, deleted=48.
+Wave: Loop5: [2]: [2008, 1009, 2010, 1011, 2012, 1013, 2014, ] max=311, deleted=48.
+Waves: Loop5: total 55pts (15pt last)
+
+DeleteOld: 1 points deleted, total: 49
+DeleteOld: 1 points deleted, total: 50
+DeleteOld: 1 points deleted, total: 51
+DeleteOld: 1 points deleted, total: 52
+DeleteOld: 1 points deleted, total: 53
+DeleteOld: 1 points deleted, total: 54
+DeleteOld: 1 points deleted, total: 55
+DeleteOld: 1 points deleted, total: 56
+DeleteOld: 1 points deleted, total: 57
+DeleteOld: 1 points deleted, total: 58
+DeleteOld: 1 points deleted, total: 59
+DeleteOld: 1 points deleted, total: 60
+DeleteOld: 1 points deleted, total: 61
+DeleteOld: 1 points deleted, total: 62
+DeleteOld: 1 points deleted, total: 63
+DeleteOld: 1 points deleted, total: 64
+DeleteOld: 1 points deleted, total: 65
+Wave: Loop6: [0]: [2010, 1011, 2012, 1013, 2014, 1015, 2016, ] max=111, deleted=65.
+Wave: Loop6: [1]: [2010, 1011, 2012, 1013, 2014, 1015, 2016, ] max=211, deleted=65.
+Wave: Loop6: [2]: [2010, 1011, 2012, 1013, 2014, 1015, 2016, ] max=311, deleted=65.
+Waves: Loop6: total 72pts (17pt last)
+
+DeleteOld: 1 points deleted, total: 66
+DeleteOld: 1 points deleted, total: 67
+DeleteOld: 1 points deleted, total: 68
+DeleteOld: 1 points deleted, total: 69
+DeleteOld: 1 points deleted, total: 70
+DeleteOld: 1 points deleted, total: 71
+DeleteOld: 1 points deleted, total: 72
+DeleteOld: 1 points deleted, total: 73
+DeleteOld: 1 points deleted, total: 74
+DeleteOld: 1 points deleted, total: 75
+DeleteOld: 1 points deleted, total: 76
+DeleteOld: 1 points deleted, total: 77
+DeleteOld: 1 points deleted, total: 78
+DeleteOld: 1 points deleted, total: 79
+DeleteOld: 1 points deleted, total: 80
+DeleteOld: 1 points deleted, total: 81
+DeleteOld: 1 points deleted, total: 82
+Wave: Loop7: [0]: [2010, 1011, 2012, 1013, 2014, 1015, 2016, 1017, 2018, ] max=111, deleted=82.
+Wave: Loop7: [1]: [2010, 1011, 2012, 1013, 2014, 1015, 2016, 1017, 2018, ] max=211, deleted=82.
+Wave: Loop7: [2]: [2010, 1011, 2012, 1013, 2014, 1015, 2016, 1017, 2018, ] max=311, deleted=82.
+Waves: Loop7: total 91pts (19pt last)
+
+DeleteOld: 1 points deleted, total: 83
+DeleteOld: 1 points deleted, total: 84
+DeleteOld: 1 points deleted, total: 85
+DeleteOld: 1 points deleted, total: 86
+DeleteOld: 1 points deleted, total: 87
+DeleteOld: 1 points deleted, total: 88
+DeleteOld: 1 points deleted, total: 89
+DeleteOld: 1 points deleted, total: 90
+DeleteOld: 1 points deleted, total: 91
+DeleteOld: 1 points deleted, total: 92
+DeleteOld: 1 points deleted, total: 93
+DeleteOld: 1 points deleted, total: 94
+DeleteOld: 1 points deleted, total: 95
+DeleteOld: 1 points deleted, total: 96
+DeleteOld: 1 points deleted, total: 97
+DeleteOld: 1 points deleted, total: 98
+DeleteOld: 1 points deleted, total: 99
+DeleteOld: 1 points deleted, total: 100
+DeleteOld: 1 points deleted, total: 101
+Wave: Loop8: [0]: [2010, 1011, 2012, 1013, 2014, 1015, 2016, 1017, 2018, 1019, 2020, ] max=111, deleted=101.
+Wave: Loop8: [1]: [2010, 1011, 2012, 1013, 2014, 1015, 2016, 1017, 2018, 1019, 2020, ] max=211, deleted=101.
+Wave: Loop8: [2]: [2010, 1011, 2012, 1013, 2014, 1015, 2016, 1017, 2018, 1019, 2020, ] max=311, deleted=101.
+Waves: Loop8: total 112pts (21pt last)
+
+DeleteOld: 1 points deleted, total: 102
+DeleteOld: 1 points deleted, total: 103
+DeleteOld: 1 points deleted, total: 104
+DeleteOld: 1 points deleted, total: 105
+DeleteOld: 1 points deleted, total: 106
+DeleteOld: 1 points deleted, total: 107
+DeleteOld: 1 points deleted, total: 108
+DeleteOld: 1 points deleted, total: 109
+DeleteOld: 1 points deleted, total: 110
+DeleteOld: 1 points deleted, total: 111
+DeleteOld: 1 points deleted, total: 112
+DeleteOld: 1 points deleted, total: 113
+DeleteOld: 1 points deleted, total: 114
+DeleteOld: 1 points deleted, total: 115
+DeleteOld: 1 points deleted, total: 116
+DeleteOld: 1 points deleted, total: 117
+DeleteOld: 1 points deleted, total: 118
+DeleteOld: 1 points deleted, total: 119
+DeleteOld: 1 points deleted, total: 120
+DeleteOld: 1 points deleted, total: 121
+DeleteOld: 1 points deleted, total: 122
+DeleteOld: 1 points deleted, total: 123
+DeleteOld: 1 points deleted, total: 124
+Wave: Loop9: [0]: [2012, 1013, 2014, 1015, 2016, 1017, 2018, 1019, 2020, 1021, 2022, ] max=111, deleted=124.
+Wave: Loop9: [1]: [2012, 1013, 2014, 1015, 2016, 1017, 2018, 1019, 2020, 1021, 2022, ] max=211, deleted=124.
+Wave: Loop9: [2]: [2012, 1013, 2014, 1015, 2016, 1017, 2018, 1019, 2020, 1021, 2022, ] max=311, deleted=124.
+Waves: Loop9: total 135pts (23pt last)
+
