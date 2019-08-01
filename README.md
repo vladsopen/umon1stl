@@ -5,6 +5,10 @@ Umon is a platform-independent, framework-independent PoC application, which pro
 
 Umon includes its own simple C++-lambda-based GUI framework to segregate application code from unwanted external API dependencies. The current open source version compiles either to JavaScript using Emscripten or as a QT-based app for the desktop platforms.
 
+# Online Demo
+
+http://o-pn.com/umon/1b
+
 # The Code
 
 * Umon1 is STL based. Unfortunately, this exposes the application code to all historical STL design flaws and unsafe undefined behavior. This is to be remedied in the future with a safe template library API layer.
@@ -21,7 +25,7 @@ Umon includes its own simple C++-lambda-based GUI framework to segregate applica
 
   * `As<type, class StrictChecker>` template is used for potentially ambiguous public function parameters. `Maybe<>` is used for optional return values.
 
-  * `Out` prefix for output parameters (`int foo(Out, int& result);` and `x = foo(Out(), &r);`
+  * `Out` prefix for output parameters: `int foo(Out, int& result);` and `x = foo(Out(), &r);`
 
   * No global state. Even system and test code passes `Io` object around to encapsulate any system, logging and debugging states. Multiple independent applications should be able to run in the same process, using different frameworks, batch/GUI or debugging modes.
 
